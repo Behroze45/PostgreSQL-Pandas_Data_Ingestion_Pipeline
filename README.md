@@ -48,9 +48,12 @@ uv / virtual environment
 📂 Project Structure
 Postgres_DB_to_DF/
 │
-├── notebook.ipynb
+├── .venv
 ├── .env
-├── requirements.txt
+├── .gitignore
+├── .python-version
+├── notebook.ipynb
+├── pyproject.toml
 └── README.md
 
 
